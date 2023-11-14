@@ -1,0 +1,19 @@
+[
+  {
+    "type": "Travel",
+    "Days": "10",
+    "Country": "Italy"
+  },
+  {
+    "type": "Health",
+    "Gender": "Male",
+    "Deductible ": "600"
+  },
+  {
+    "type": "Life",
+    "Amount": "10000",
+    "IsSomker": "False",
+    "DateOfBirth": "Apr 4, 1986"
+  }
+
+]
