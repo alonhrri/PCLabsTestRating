@@ -8,6 +8,5 @@ namespace TestRating
         void LogError(string message);
         void LogSuccess(string message);
 
-
     }
 }

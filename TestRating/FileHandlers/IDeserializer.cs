@@ -9,6 +9,5 @@ namespace TestRating
     internal interface IDeserializer<T>
     {
         T Deserialize(string json);
-
     }
 }

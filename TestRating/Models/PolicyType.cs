@@ -5,6 +5,7 @@ namespace TestRating
     {
         Life = 0,
         Travel = 1,
-        Health = 2
+        Health = 2,
+        Mock = 4
     }
 }
